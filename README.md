@@ -5,6 +5,7 @@ A Streamlit application for describing assets using both DCAT and OPC UA informa
 <!-- TOC -->
 
 - [RoX Semantic Model UI](#rox-semantic-model-ui)
+    - [Example](#example)
     - [Running with Docker](#running-with-docker)
         - [Prerequisites](#prerequisites)
         - [Quick Start](#quick-start)
@@ -29,7 +30,9 @@ A Streamlit application for describing assets using both DCAT and OPC UA informa
 
 <!-- /TOC -->
 
-![RoX Semantic Model UI](./rox_semantic_ui.png)
+## Example
+
+![RoX Semantic Model UI](./images/rox_semantic_ui.png)
 
 ## Running with Docker
 
