@@ -29,6 +29,8 @@ A Streamlit application for describing assets using both DCAT and OPC UA informa
 
 <!-- /TOC -->
 
+![RoX Semantic Model UI](./rox_semantic_ui.png)
+
 ## Running with Docker
 
 ### Prerequisites
